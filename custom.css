@@ -1,0 +1,175 @@
+.navigate {
+  background: #eeeeee;
+}
+.main-header {
+  -webkit-box-shadow: 0px 1px 1px #0a030a;
+  -moz-box-shadow: 0px 1px 1px #0a030a;
+  box-shadow: 0px 1px 1px #0a030a;
+  opacity: 1;
+  z-index: 20;
+  height: 6rem;
+  overflow: hidden;
+  border-bottom: 1px solid lightgrey;
+}
+.main-header img {
+  width: 4rem;
+  padding: 0px;
+  margin: 0px;
+}
+.navigate a {
+  color: grey;
+}
+ul li a:hover {
+  background: #fff !important;
+}
+.user {
+  border-left: 1px solid grey;
+  width: 25rem;
+}
+.navigate a:hover {
+  text-decoration: none;
+}
+a h4 {
+  padding-bottom: 1.5rem;
+}
+.mt-2 {
+  margin-top: 2rem;
+}
+.switcher {
+  padding-bottom: 2rem;
+}
+.switcher h5 {
+  color: #fff;
+}
+.nav li span {
+  font-size: 20px;
+  padding-left: 1rem;
+}
+.next {
+  margin-top: 3rem;
+}
+.nums {
+  font-size: 65px;
+}
+.mycard {
+  margin-top: 5rem;
+  border-radius: 2rem;
+  padding-bottom: 1rem;
+  box-shadow: 2px 2px 12px 2px grey;
+  margin-bottom: 7rem;
+}
+
+body {
+  background: white;
+}
+.wrpr_cat {
+  box-shadow: 0 0 18px 0 rgba(0, 0, 0, 0.2);
+}
+.wrpr_cat li {
+  padding: 10px 15px 10px 15px;
+}
+.btn-info {
+  background-color: #00a550;
+}
+.btn-info:hover {
+  background-color: #00a550;
+}
+
+.post {
+  background: #091923;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+.project {
+  font-size: 35px !important;
+  color: #fff;
+  padding-left: 2rem;
+  padding-right: 2rem;
+ 
+}
+.earn {
+  font-size: 40px;
+  color: #fff;
+}
+.post h3 {
+  color: #fff;
+}
+.post h5 {
+  color: #00a550;
+}
+.offers h1 {
+  color: #091923;
+  margin-top: 2rem;
+  font-size: 35px;
+}
+.offers h5 {
+  color: #00a550;
+}
+.cardtext {
+  color: #091923;
+  font-size: 14px;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+.card {
+  background: #fff;
+  border: 2px solid #fff;
+  margin-bottom: 7rem;
+}
+.card img {
+  width: 100%;
+  height: 18rem;
+}
+.ratings {
+  margin-bottom: 1rem;
+}
+.rate {
+  padding-right: 1rem;
+}
+.header {
+  background: #fff;
+}
+.navigate table {
+  width: 100%;
+  background: #fff;
+  margin-top: 3rem;
+  margin-bottom: 5rem;
+}
+.navigate table td {
+  padding: 3rem;
+  border: 1px solid lightgrey;
+  font-weight: bolder;
+  color: black;
+  width: 50%;
+}
+table td img {
+  width: 3rem;
+  margin-left: 4rem;
+  margin-right: 2rem;
+}
+.bottom h1 {
+  color: #fff;
+  margin-bottom: 3rem;
+}
+.right-project {
+  border-left: 2px solid #fff;
+}
+.rank {
+  margin-top: 3rem;
+}
+.pros {
+  border-bottom: 1px solid #fff;
+  width: 70%;
+  padding-bottom: 1rem;
+}
+.pros h2 {
+  color: #fff;
+}
+
+.pros img {
+  width: 2.5rem;
+}
+.pros span {
+  color: #00a550;
+  padding-left: 1rem;
+}
